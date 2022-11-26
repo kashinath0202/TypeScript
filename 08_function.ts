@@ -83,3 +83,6 @@ var multiply = (num1:number, num2:number):number=> {
 }
 
 console.log(multiply(2,7));
+
+
+console.warn(" =========================== =====================");
